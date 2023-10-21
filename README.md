@@ -1,7 +1,4 @@
-### Holla 👋
-
-<!--
-**MureithiG/MureithiG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Holla 👋
 
 About me:
 •	I am Joseph Mureithi, a passionate web developer with knowledge in building products for startups, mid-sized companies, and large businesses. I am currently certified in both HTML and CSS. 
