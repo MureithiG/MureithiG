@@ -3,14 +3,9 @@
 <head>
   MureithiG<br>
     <meta charset="UTF-8">
-    <title>Home</title>
-    <script src="../bootstrap/js/jquery-3.4.0.js"></script>
-    <script src="../bootstrap/js/popper.min.js"></script>
-    <script src="../bootstrap/js/bootstrap.js"></script>
     <link rel="stylesheet" href="../bootstrap/css/bootstrap.css">
     <link rel="stylesheet" href="../bootstrap/css/style.css">
-</head>
-  <body>
+   <body>
 ***Holla 👋***
 
 **About me**:
