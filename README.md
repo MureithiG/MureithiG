@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
+    <meta charset="UTF-8" name='viewport' content='width=device-width, initial-scale=1'>
     <title>MureithiG</title>
     <script src="fontawesome-free-6.4.2-web/js/all.js"></script>>
     <link rel="stylesheet" href="fontawesome-free-6.4.2-web/css/all.css">
@@ -35,52 +35,18 @@
 -📫 How to reach me: mgichuhij@gmail.com, LinkedIn, GitHub.
 </h3>
 
-<div>
-    <div>
-        <a href="">
-            <i class='fab fa-facebook' style='font-size:48px;color:deepskyblue'>
-                <img src="fontawesome-free-6.4.2-web/svgs/brands/facebook.svg" alt="">
-            </i>
-        </a>
-    </div>
+<i class='fab fa-facebook' style='font-size:48px;color:#3f729b'><img src="fontawesome-free-6.4.2-web/svgs/brands/facebook.svg" alt=""></i>
 
-    <div>
-        <a href="">
-            <i class='fab fa-facebook' style='font-size:48px;color:deepskyblue'>
-                <img src="fontawesome-free-6.4.2-web/svgs/brands/instagram.svg" alt="">
-            </i>
-        </a>
-    </div>
-    <div>
-        <a href="">
-            <i class='fab fa-facebook' style='font-size:48px;color:deepskyblue'>
-                <img src="fontawesome-free-6.4.2-web/svgs/brands/twitter.svg" alt="">
-            </i>
-        </a>
-    </div>
-    <div>
-        <a href="">
-            <i class='fab fa-facebook' style='font-size:48px;color:deepskyblue'>
-                <img src="fontawesome-free-6.4.2-web/svgs/brands/linkedin.svg" alt="">
-            </i>
-        </a>
-    </div>
-    <div>
-        <a href="">
-            <i class='fab fa-facebook' style='font-size:48px;color:deepskyblue'>
-                <img src="fontawesome-free-6.4.2-web/svgs/brands/youtube.svg" alt="">
-            </i>
-        </a>
-    </div>
+<i class='fab fa-instagram' style='font-size:48px;color:#9b3f42'><img src="fontawesome-free-6.4.2-web/svgs/brands/instagram.svg" alt=""></i>
 
-    <div>
-        <a href="">
-            <i class='fab fa-facebook' style='font-size:48px;color:deepskyblue'>
-                <img src="fontawesome-free-6.4.2-web/svgs/brands/whatsapp.svg" alt="">
-            </i>
-        </a>
-    </div>
-</div>
+<i class='fab fa-twitter' style='font-size:48px;color:#3f729b'><img src="fontawesome-free-6.4.2-web/svgs/brands/twitter.svg" alt=""></i>
+
+<i class='fab fa-linkedin-in' style='font-size:48px;color:#3f729b'><img src="fontawesome-free-6.4.2-web/svgs/brands/linkedin-in.svg" alt=""></i>
+
+<i class='fab fa-youtube' style='font-size:48px;color:#9b3f50'><img src="fontawesome-free-6.4.2-web/svgs/brands/youtube.svg" alt=""></i>
+
+<i class='fab fa-whatsapp' style='font-size:48px;color:#429b3f'><img src="fontawesome-free-6.4.2-web/svgs/brands/whatsapp.svg" alt=""></i>
+
 
 </body>
 </html>
