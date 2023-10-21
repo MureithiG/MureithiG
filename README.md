@@ -1,8 +1,14 @@
 <!DOCTYPE html>
 <html>
 <head>
-MureithiG<br>
-  <script></script>
+  MureithiG<br>
+    <meta charset="UTF-8">
+    <title>Home</title>
+    <script src="../bootstrap/js/jquery-3.4.0.js"></script>
+    <script src="../bootstrap/js/popper.min.js"></script>
+    <script src="../bootstrap/js/bootstrap.js"></script>
+    <link rel="stylesheet" href="../bootstrap/css/bootstrap.css">
+    <link rel="stylesheet" href="../bootstrap/css/style.css">
 </head>
   <body>
 ***Holla 👋***
@@ -26,6 +32,15 @@ MureithiG<br>
 - ⚡ Fun fact: I love playing video games
   
 - 📫 How to reach me: mgichuhij@gmail.com, #0969DA LinkedIn, GitHub.
+
+<a href="https://www.facebook.com">
+  <img src="facebook.svg" alt="Image">
+</a>
+
+
+
+- link/assets/images/facebook.svg
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" font-size:48px> <!--! Font Awesome Pro 6.4.2 by @fontawesome - https://fontawesome.com License-->
   
 <i class='fab fa-facebook-square' style='font-size: 48px; color: blue'></i>
   
