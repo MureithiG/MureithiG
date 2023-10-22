@@ -3,7 +3,9 @@
 <head>
     <meta charset="UTF-8" name='viewport' content='width=device-width, initial-scale=1'>
     <title>MureithiG</title>
-    <script src="fontawesome-free-6.4.2-web/js/all.js"></script>>
+    <script src="fontawesome-free-6.4.2-web/js/all.js"></script>
+    <link rel="stylesheet" href="fontawesome-free-6.4.2-web/metadata/icon-families.yml">
+    <link rel="stylesheet" href="fontawesome-free-6.4.2-web/js/all.js">
     <link rel="stylesheet" href="fontawesome-free-6.4.2-web/css/all.css">
     <link rel="stylesheet" href="fontawesome-free-6.4.2-web/css/svg-with-js.css">
     <link rel="stylesheet" href="fontawesome-free-6.4.2-web/css/brands.css">
